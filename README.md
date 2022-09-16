@@ -467,3 +467,4 @@ URLСервиса = "";
 
 # Спасибо
 https://github.com/skyksandr/1c-styleguide
+https://github.com/cpr1c/code_style
